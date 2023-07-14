@@ -1,0 +1,13 @@
+#game {
+  text-align: center;
+  padding-top: 100px;
+}
+
+#cookie-count {
+  font-size: 50px;
+}
+
+#cookie-clicker {
+  font-size: 20px;
+  padding: 10px 20px;
+}
